@@ -2,7 +2,7 @@
 //  main.cpp
 //  Project 1
 //
-//  Created by A.J. Ort on 9/13/18.
+//  Created by Chris Adkins on 9/13/18.
 //
 
 #include <iostream>
